@@ -1,12 +1,12 @@
-# AI漫画工作台 · 快速上手
+# 欧阳漫画 · 快速上手
 
 [返回项目首页](README.md) · [完整图文教程](https://ncng8szhbogw.feishu.cn/wiki/Ck26wD5qvixxprkJyaqc85wDnwc?from=from_copylink)
 
 ## 1. 下载并登录
 
-下载 [v1.3.2 Windows 免安装版](https://mh.xylos.cn/downloads/AI-Comic-Workbench-1.3.2-Portable.zip)，完全退出旧版，将 ZIP 完整解压到固定文件夹，双击其中的 **AI漫画工作台.exe**。请保留同目录的全部文件。在登录页面注册或登录账号。
+从 [Windows 安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe) 或 [Windows 免安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-1.3.3-Portable.zip) 下载软件。退出正在运行的软件后安装，或完整解压 ZIP 后运行其中的 **欧阳漫画.exe**。
 
-主下载入口无法下载时，可使用 [GitHub 备用下载](https://github.com/qcdwl/manhua/releases/download/v1.3.2/AI-Comic-Workbench-1.3.2-Portable.zip)。
+可在 [Releases 发布页](https://github.com/qcdwl/manhua/releases) 查看全部附件。
 
 新版默认缩放为 **80%**；按 **Ctrl+0** 恢复至 80%。需要桌面入口时，为新版 exe 创建快捷方式，原安装版快捷方式仍指向旧版。
 
@@ -47,3 +47,5 @@
 ## 需要帮助
 
 请提供软件版本、操作到哪一步以及错误提示。联系客服微信 **mechodd**，或在 [Issues](https://github.com/qcdwl/FKS9A9B/issues) 中反馈。
+
+
