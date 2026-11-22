@@ -4,7 +4,9 @@
 
 ## 1. 下载并登录
 
-从 [Windows 安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe) 或 [Windows 免安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-1.3.3-Portable.zip) 下载软件。退出正在运行的软件后安装，或完整解压 ZIP 后运行其中的 **欧阳漫画.exe**。
+从 [Windows 安装包](https://mh.xylos.cn/downloads/Ouyang-Manhua-Setup-1.3.3.exe) 或 [Windows 免安装包](https://mh.xylos.cn/downloads/Ouyang-Manhua-1.3.3-Portable.zip) 下载软件。退出正在运行的软件后安装，或完整解压 ZIP 后运行其中的 **欧阳漫画.exe**。
+
+主下载入口使用独立服务器，无需登录网盘。无法下载时可使用 GitHub 备用入口：[安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe) · [免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-1.3.3-Portable.zip)。
 
 可在 [Releases 发布页](https://github.com/qcdwl/manhua/releases) 查看全部附件。
 
