@@ -10,7 +10,7 @@
 
 角色推理 · 分镜导入 · AI 润色 · 提示词前后缀 · 生图 · 检查导出
 
-<a href="https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
+<a href="https://mh.xylos.cn/downloads/Ouyang-Manhua-Setup-1.3.3.exe"><img src="https://img.shields.io/badge/下载_Windows_版-6366F1?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="下载 Windows 版"></a>
 &nbsp;
 <a href="https://ncng8szhbogw.feishu.cn/wiki/Ck26wD5qvixxprkJyaqc85wDnwc?from=from_copylink"><img src="https://img.shields.io/badge/查看完整教程-202535?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="查看完整教程"></a>
 
@@ -65,8 +65,10 @@ Windows 10 / 11（64 位） · v1.3.3 · 需要联网
 
 | 系统 | 版本 | 下载入口 |
 | --- | --- | --- |
-| Windows 10 / 11（64 位） | 安装版 | **[下载 Windows 安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe)** |
-| Windows 10 / 11（64 位） | 免安装版 | **[下载 Windows 免安装包](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-1.3.3-Portable.zip)** |
+| Windows 10 / 11（64 位） | 安装版 | **[下载 Windows 安装包](https://mh.xylos.cn/downloads/Ouyang-Manhua-Setup-1.3.3.exe)** |
+| Windows 10 / 11（64 位） | 免安装版 | **[下载 Windows 免安装包](https://mh.xylos.cn/downloads/Ouyang-Manhua-1.3.3-Portable.zip)** |
+
+主下载入口使用独立服务器，无需登录网盘。无法下载时可使用 GitHub 备用入口：[安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-Setup-1.3.3.exe) · [免安装版](https://github.com/qcdwl/manhua/releases/download/v1.3.3/Ouyang-Manhua-1.3.3-Portable.zip)。
 
 v1.3.3：优化软件细节，提升系统稳定性。默认以 **80%** 显示页面，按 **Ctrl+0** 恢复默认缩放。
 
